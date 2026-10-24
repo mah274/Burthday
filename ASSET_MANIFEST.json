@@ -1,0 +1,529 @@
+{
+  "project": "Mahoosh premium birthday website",
+  "asset_paths_are_relative_to": "index.html",
+  "original_assets_from_base_archive_preserved_without_pixel_or_byte_changes": true,
+  "approved_diary_display_composite": "assets/diary-open-book-with-memories.png",
+  "diary_composite_size_px": [
+    1408,
+    768
+  ],
+  "assets": [
+    {
+      "path": "assets/bg-01.jpg",
+      "bytes": 310624,
+      "sha256": "7fb630752bc9cea42203a42b4f91fb8af31c9f6f5cb341436070617cecf0eaa7",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-02.jpg",
+      "bytes": 580790,
+      "sha256": "653c12bb11f7a4de8596bc4c23068b92afd98e22ca6ae9d7ff5276cf5f959dca",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-03.jpg",
+      "bytes": 448702,
+      "sha256": "3a1bd0f7ec72a9da3fad186ba784d2997cca12f011a3dc2a16c25e44ce29aa2a",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-04.jpg",
+      "bytes": 697858,
+      "sha256": "8bc75ebb9e79f3666f1d5f601732c8b803808368c032897161435d5996189df0",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-05.jpg",
+      "bytes": 520030,
+      "sha256": "736a8a43683042170eb1feb51f4cced2244bc6c976c91da385e26bbd555a41e2",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-06.jpg",
+      "bytes": 583187,
+      "sha256": "deb01263c36791023946d8ca377edd085c9bf9498f176ee1bf2843b68657138d",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-07.jpg",
+      "bytes": 603814,
+      "sha256": "708277ffe3128f07d03ee8a688bedf93f2e85c16d2b079a76379c2cb9b7b49ad",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-08.jpg",
+      "bytes": 557340,
+      "sha256": "3f713b142319c88840dd34ce2314cdc9b3bee0ad715123528183886068085e74",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-09.jpg",
+      "bytes": 709436,
+      "sha256": "705f236104e9ef541ed46d52a0f043f2810cbb44e2b109735aa00f1f89f0d19d",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-10.jpg",
+      "bytes": 379145,
+      "sha256": "fb4a114e38fd07d9152dbe8615fd6072e7c1eae600d5e83963313ae6f07099da",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-11.jpg",
+      "bytes": 512840,
+      "sha256": "fb255d8991441cc42339399b22d13916378a1582de8bf9e043b1d39de3d15c6b",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-12.jpg",
+      "bytes": 331589,
+      "sha256": "decde51ad4cbebb29e34e344a3742b8aa525e9365f7667fc2510fd592786c239",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-13.jpg",
+      "bytes": 428213,
+      "sha256": "be75f54acf47b93b1478885b0abee85f991267217cf2d30af52b9b080000c326",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/bg-14.jpg",
+      "bytes": 406412,
+      "sha256": "9313539f0f9673a704ceded30badaeeb08f5abf79c95e8e8bc3cd896a9038ed3",
+      "dimensions_px": [
+        1000,
+        1660
+      ],
+      "category": "background",
+      "usage": "Original background wallpaper, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/birthday-cake-original.jpg",
+      "bytes": 237559,
+      "sha256": "9318018ab0248c5de0b48b1ba5adedec9f337a7cfcb5fbfcafbf8c83b0b7f89c",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "cake-art",
+      "usage": "Original cake artwork; no candle bodies are added by code",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/birthday-cake-transparent.png",
+      "bytes": 745659,
+      "sha256": "7e567328c7700e95a3e0838b683aba820ae980c77d0893ae0072352d2e4b88d4",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "cake-art",
+      "usage": "Original cake artwork; no candle bodies are added by code",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/butterfly-blue.svg",
+      "bytes": 1685,
+      "sha256": "ce3b2bcf546d55ae113146eff6fe4e6c89c8bceecb09ef627a0290b46fce7cdd",
+      "category": "icon",
+      "usage": "Consistent powder-blue butterfly artwork",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/comfort-shelter-background.jpg",
+      "bytes": 126541,
+      "sha256": "cec21825f14aaee47a4bae5325d1f087b1c71296e9050da03b48a52ccaf02dfd",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-campus.jpg",
+      "bytes": 422376,
+      "sha256": "006ad8459025236ef4e07ff3adab72347f7dec526ef869c35bf138f101b8de33",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-cover-stack-original.jpg",
+      "bytes": 215307,
+      "sha256": "f33852a46e6b483221583b4d6f6d73da51350d6fa5d03100915659192384bdf1",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "decorative-art",
+      "usage": "Original diary cover-stack artwork, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-cover-stack-transparent.png",
+      "bytes": 582326,
+      "sha256": "264779aa0b82af98913dcd365d19524223d8037391f9d9d0f2ea9aa53fa07808",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "decorative-art",
+      "usage": "Original diary cover-stack artwork, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-dreams.jpg",
+      "bytes": 519967,
+      "sha256": "304bb974d4bdd11051fcaf32c4dafeb2b8f53c91aafc9b1eef2bc3d63fab4846",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-open-book-original.jpg",
+      "bytes": 174323,
+      "sha256": "061eb548d29437d5c3d557d54f1ce6376704097fab917c8cdcb2995f4e55a1ff",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "book-art",
+      "usage": "Original open-book artwork, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-open-book-transparent.png",
+      "bytes": 417862,
+      "sha256": "3b14845553891404d64bcb4a411d379f6d86b3c989221c1a3552679b1aff5121",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "book-art",
+      "usage": "Original open-book artwork, unchanged",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-open-book-with-memories.png",
+      "bytes": 713108,
+      "sha256": "5230a1af9ad3819ae24b0b5f971cf37f4c45586a7685d03de9ada129c8cdce7b",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "approved-composite-display",
+      "usage": "Approved display composition of the open book and six perspective Polaroids; six polygon hotspots map each photo to its individual full photo and story",
+      "source": "derived only for display from the approved perspective render; originals are preserved separately",
+      "derived": true
+    },
+    {
+      "path": "assets/diary-origin.jpg",
+      "bytes": 392198,
+      "sha256": "cdbeb5f9ed4720936fc0ae6a88bc7d07ee758eb4f04b57dc486bb9ccd874c1d6",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/diary-phone.jpg",
+      "bytes": 411497,
+      "sha256": "e778f8e9c743ce1d67e72da1bb999302bdf70c2146e60ebd8cb7d188678cf654",
+      "dimensions_px": [
+        1024,
+        1536
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/dream-airport-background.jpg",
+      "bytes": 152240,
+      "sha256": "b8ae900bae0e0d5f4e55717b266295b05affcd8b669c51b11687b41fc54004a6",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-01-first-date.jpg",
+      "bytes": 237099,
+      "sha256": "bac444f3480c5cd12696c8223326f511208645634b1f56f7c31f3c8b3056f1ff",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-02-bowling.jpg",
+      "bytes": 123612,
+      "sha256": "0088c11cff0df91e7273c0f36036c5fbfc66bb44a57548eb65dca0fe775e7083",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-03-birthday-message.jpg",
+      "bytes": 124215,
+      "sha256": "aacf65ca8e58674d39aca39c7cb7ff94588a86f09786b492288946479d894049",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-04-gifts-doodi.jpg",
+      "bytes": 172806,
+      "sha256": "1d7e206e7f36f3dc303b17349314a24d6bfd53643d651442eb94d58da5e7c2b3",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-05-future-dream.jpg",
+      "bytes": 187877,
+      "sha256": "1abe57fe485624968ec4b8a4f3e49cee1f71915fe92573139ed07636a41a019b",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/memory-06-bebao.jpg",
+      "bytes": 165324,
+      "sha256": "a52e096966b524a08e9d1ecc8a9b9346256ad7f02db3b0509fd06f1830885c9d",
+      "dimensions_px": [
+        928,
+        1152
+      ],
+      "category": "memory-photo",
+      "usage": "Independent original memory photo used in the corresponding story modal without cropping",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/riddle-background.jpg",
+      "bytes": 55858,
+      "sha256": "3c91f17f4fa91e0fd7f1891ed5e9d6922ab356e74fc16d361e5e7d990dd6cb45",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/riddles.js",
+      "bytes": 65184,
+      "sha256": "682256f5ba55b4e33b4a74613a959ed5e95955fe0d53918a6dbb3150c6b54c00",
+      "category": "data",
+      "usage": "Local Persian riddle dataset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/secret-envelope-original.jpg",
+      "bytes": 132254,
+      "sha256": "2f839106e0a88718e77c3bd65ad475c17d77999494362a1f04bc79e36fdb5a37",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "envelope-art",
+      "usage": "Original secret envelope artwork",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/secret-envelope-transparent.png",
+      "bytes": 233905,
+      "sha256": "fc7277b9519a5c33b06d4e12abc6a670bfcde2ab9b3504aa049a5abf2e4a50a2",
+      "dimensions_px": [
+        1408,
+        768
+      ],
+      "category": "envelope-art",
+      "usage": "Original secret envelope artwork",
+      "source": "existing project asset"
+    },
+    {
+      "path": "assets/starry-sky-background.jpg",
+      "bytes": 161773,
+      "sha256": "397355247f5ddb08f89b68694626d02bbc158fbc09635dc52e1e75078613bd92",
+      "dimensions_px": [
+        768,
+        1376
+      ],
+      "category": "other",
+      "usage": "Local website asset",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song1.mp3",
+      "bytes": 8126993,
+      "sha256": "07b959e3be9f9e1f03ddc3c962b847ee8648ebcf216ee9168eedd32e464090ae",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song2.mp3",
+      "bytes": 4909705,
+      "sha256": "b2aed8ef9982e0d50aea5034692fd75592f334b5f82f481294ca5d585c3ab433",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song3.mp3",
+      "bytes": 4148319,
+      "sha256": "21030bb946eab17e7e430877013212b264963cc4e188283cada846805310fec6",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song4.mp3",
+      "bytes": 7852785,
+      "sha256": "cf541860e903aaae3e45ed8ce43cffedfa60f99c62bc1df044ba96680bf28587",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song5.mp3",
+      "bytes": 7805010,
+      "sha256": "24f1f9baf7b25a0d954f182e8e5fb0cafe13519f36672ba13ae013a4d373083d",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song6.mp3",
+      "bytes": 3662732,
+      "sha256": "0b47765c16e8de1894306f0510991c68b9a0ec823db48af5d73b8e1da929eaad",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    },
+    {
+      "path": "songs/song7.mp3",
+      "bytes": 3962509,
+      "sha256": "bea94eda1c0df61879afc0ab4f13b8b555e364dd11bb13e3fb80c9f8cfcead29",
+      "category": "audio",
+      "usage": "Local audio track for the seven-song player",
+      "source": "existing project asset"
+    }
+  ]
+}

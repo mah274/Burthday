@@ -1,0 +1,129 @@
+{
+  "scene_count": 16,
+  "html_id_count": 91,
+  "duplicate_ids": {},
+  "diary_hotspot_count": 6,
+  "diary_hotspot_indexes": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "diary_composite_asset": "./assets/diary-open-book-with-memories.png",
+  "each_hotspot_has_label": true,
+  "each_hotspot_has_story_handler": true,
+  "diary_story_item_count": 6,
+  "css_stylesheet_count": 10,
+  "css_parse_errors": [],
+  "inline_js_syntax_checks": [
+    {
+      "index": 0,
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "index": 1,
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "index": 2,
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "index": 3,
+      "passed": true,
+      "stderr": ""
+    },
+    {
+      "index": 4,
+      "passed": true,
+      "stderr": ""
+    }
+  ],
+  "local_literal_refs_checked": 20,
+  "missing_local_refs": [],
+  "background_count": 14,
+  "memory_photo_count": 6,
+  "song_count": 7,
+  "original_four_transparent_assets_exist": true,
+  "approved_composite": {
+    "size_px": [
+      1408,
+      768
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ]
+  },
+  "protected_backgrounds_and_songs_changed": [],
+  "all_preexisting_assets_changed": [],
+  "preexisting_assets_verified_count": 45,
+  "riddle_dataset": {
+    "count": 262,
+    "missingAnswers": 0,
+    "duplicateQ": 0
+  },
+  "love_prompt_count": 20,
+  "love_prompt_option_counts": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "formspree_preserved": true,
+  "source_feature_text_preserved": true,
+  "flame_overlay_count": 20,
+  "flame_overlay_does_not_add_candle_bodies": true,
+  "browser_interaction_tests": {
+    "status": "not_completed_in_this_environment",
+    "reason": "Chromium navigation to the local project was blocked with ERR_BLOCKED_BY_ADMINISTRATOR; no browser click test is claimed as passed.",
+    "scenarios_not_verified_in_real_browser": [
+      "click each diary photo and check corresponding modal",
+      "Escape and close-button focus restoration",
+      "mobile touch behavior",
+      "real audio playback",
+      "settings persistence after refresh",
+      "actual Formspree submission"
+    ]
+  },
+  "diary_behavior_implemented": {
+    "approved_composite_art": "assets/diary-open-book-with-memories.png",
+    "hotspots": 6,
+    "each_hotspot_maps_to_same_index_story_and_original_photo": true,
+    "source_book_and_six_source_photos_preserved": true,
+    "modal_scroll_reset_on_open": true,
+    "modal_close_methods": [
+      "close button",
+      "back button",
+      "Escape key",
+      "backdrop click"
+    ]
+  },
+  "post_final_css_patch_checks": {
+    "css_parse_passed": true,
+    "inline_javascript_syntax_passed": true,
+    "note": "Rechecked after the final hotspot hover/focus transform override."
+  }
+}
